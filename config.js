@@ -30,13 +30,13 @@ global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
 global.linkgh = 'https://github.com/Lord-official'
 
-global.session = process.env.SESSION_ID|| ''
+global.session = process.env.SESSION_ID|| 'levanter_12835b3fad718944a581febef515bdc51e'
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
 global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
+global.owner = ['50939103464']
+global.premium = ['50939103464']
 global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
 global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
 global.sessionName = 'lord'
